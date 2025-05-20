@@ -147,6 +147,10 @@ body{
         width: 90%;
     }
 
+    .image img{
+        height: 250px;
+    }
+    
     .loading-container {
         position: relative;
         top: 50%;
