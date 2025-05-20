@@ -1,0 +1,50 @@
+[
+    {
+        "titolo": "QR Code",
+        "descrizione": "a basic page that show a QR code",
+        "link": "https://andreasci.github.io/QRCode/",
+        "screenshot": "./images/screenshot_qrCode.png"
+    },
+
+    {
+        "titolo": "Article preview",
+        "descrizione": "a basic page that show an article preview card",
+        "link": "https://andreasci.github.io/article_preview/",
+        "screenshot": "./images/screenshot-desktop-article-preview.png"
+    },
+
+    {
+        "titolo": "Testimonials",
+        "descrizione": "a basic page that show a dasboaard of testimonials",
+        "link": "https://andreasci.github.io/testimonials_cards/",
+        "screenshot": "./images/screenshot-desktop-testimonials.png"
+    },
+
+    {
+        "titolo": "Four Cards",
+        "descrizione": "a basic page that show a dasboaard of testimonials divided in 4 cards",
+        "link": "https://andreasci.github.io/four-card/",
+        "screenshot": "./images/screenshot-four-cards.png"
+    },
+
+    {
+        "titolo": "Product preview",
+        "descrizione": "a basic page that show a product preview card",
+        "link": "https://andreasci.github.io/product_preview_card/",
+        "screenshot": "./images/screenshot-desktop-product-card.png"
+    },
+
+    {
+        "titolo": "Newsletter",
+        "descrizione": "a basic page that show a newsletter signing form",
+        "link": "https://andreasci.github.io/newsletter/",
+        "screenshot": "./images/screenshot-desktop-newsletter.png"
+    },
+
+    {
+        "titolo": "Time tracking",
+        "descrizione": "a basic page that show a dasboaard of time tracking",
+        "link": "https://andreasci.github.io/time_tracking_dashboard/",
+        "screenshot": "./images/screenshot-desktop-time-tracking.png"
+    }
+]
