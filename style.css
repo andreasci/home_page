@@ -81,9 +81,9 @@ body{
 
 .loading-container {
     position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-680%, -65%);
+    /*top: 50%;
+    left: 50%;*/
+    transform: translate(0, -65%);
     width: 7rem;
     height: 7rem;
 }
@@ -153,9 +153,9 @@ body{
     
     .loading-container {
         position: relative;
-        top: 50%;
-        left: 50%;
-        transform: translate(-170%, -65%);
+        /*top: 50%;
+        left: 50%;*/
+        transform: translate(0, -65%);
         width: 7rem;
         height: 7rem;
     }
