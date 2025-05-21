@@ -46,6 +46,7 @@ body{
     /*box-shadow: -5px -5px 9px #ffffff73, 5px 5px 7px rgba(0, 0, 0, 0.2);*/
     box-shadow: -5px -5px 1px #96ebf8, 5px 5px 1px rgba(242, 132, 89, 0.884);
     overflow: hidden;
+    background: #b9d5ff;
 
     animation: appear linear;
     animation-timeline: view();
